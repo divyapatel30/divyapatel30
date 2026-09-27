@@ -13,32 +13,37 @@
 <br>
 
 <a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-7C3AED?style=for-the-badge&labelColor=171717" alt="Portfolio">
 </a>
 &nbsp;
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/divyapatel30/">
+  <img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&labelColor=171717" alt="LinkedIn">
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<a href="mailto:divyapatel3043@gmail.com">
+  <img src="https://img.shields.io/badge/✉%20Contact%20Me-5B21B6?style=for-the-badge&labelColor=171717" alt="Email">
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=divyapatel30&label=Profile%20Views&color=7C3AED&style=flat" alt="Profile views">
 
 </div>
 
 ---
 
-## ✦ A little about me
+## ✦ A Little About Me
 
 ```text
 🎓  Computer Engineering student
 💻  Frontend-focused developer
 🧩  Interested in building practical, problem-based applications
-🎨  I enjoy working on the design and user experience of applications
+🎨  I enjoy working on design and user experience
 🚀  Currently expanding my skills toward full-stack development
 ```
 
 I like building projects that are more than just interfaces.
+
 I enjoy understanding the problem behind an application and turning
 it into something simple, useful and easy to use.
 
@@ -46,16 +51,23 @@ it into something simple, useful and easy to use.
 
 ## 🛠️ Technologies & Tools
 
-### Frontend
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+### 🎨 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
 
-### Database & Backend
+### 🗄️ Database & Backend
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -63,7 +75,7 @@ it into something simple, useful and easy to use.
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 </p>
 
-### Tools & Version Control
+### 🔧 Tools & Version Control
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -73,49 +85,69 @@ it into something simple, useful and easy to use.
 
 ---
 
+## 🚧 Currently Building
+
+### 🏠 HomeVault — Family & Personal Document Organizer
+
+A web-based platform designed to help individuals and families
+organize important personal and family documents in one place.
+
+**Focus areas**
+
+`Family Management` · `Document Organization` · `Access Control`
+
+`Search & Filtering` · `Expiry Reminders`
+
+**Built with**
+
+`HTML` · `CSS` · `JavaScript` · `Firebase`
+
+**Status:** `🚧 In Development`
+
+> Building HomeVault as a practical solution to the problem of
+> important family documents being scattered across different
+> places and difficult to manage.
+
+---
+
 ## 📚 Currently Learning
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-</p>
+<div align="center">
 
-> Learning step by step with the goal of building more complete
-> full-stack applications.
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+
+<br><br>
+
+`Learning step by step → Building toward full-stack development`
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
-
-### 🏠 HomeVault — Family & Personal Document Organizer
-
-A web-based document organization system designed to help families
-keep important personal and family documents organized in one place.
-
-**Built with:**  
-`HTML` · `CSS` · `JavaScript` · `Firebase`
-
-**Key areas:**  
-Family management · Document organization · Search & filtering ·
-Access control · Expiry reminders
-
-[🔗 View Repository](YOUR_HOMEVAULT_REPO_URL)
-
----
 
 ### ⛓️ Blockchain Microloan Payment System
 
 A blockchain-based microloan application designed to connect
 borrowers and lenders through decentralized transactions.
 
-**Built with:**  
+**Built with**
+
 `HTML` · `CSS` · `JavaScript` · `Node.js` · `Ethers.js` · `Solidity` · `Hardhat`
 
-**Key areas:**  
-Borrower/lender interaction · Smart contracts · Microloans ·
-Blockchain-based transactions
+**Focus areas**
 
-[🔗 View Repository](YOUR_BLOCKCHAIN_REPO_URL)
+`Borrower/Lender Interaction` · `Smart Contracts`
+
+`Microloans` · `Blockchain Transactions`
+
+<br>
+
+<a href="YOUR_BLOCKCHAIN_REPO_URL">
+  <img src="https://img.shields.io/badge/↗%20View%20Repository-7C3AED?style=for-the-badge&labelColor=171717" alt="Blockchain Repository">
+</a>
 
 ---
 
@@ -125,10 +157,15 @@ A frontend project inspired by travel booking interfaces,
 built to practice responsive layouts, forms and interactive
 JavaScript functionality.
 
-**Built with:**  
+**Built with**
+
 `HTML` · `CSS` · `JavaScript`
 
-[🔗 View Repository](YOUR_MAKEMYTRIP_REPO_URL)
+<br>
+
+<a href="YOUR_MAKEMYTRIP_REPO_URL">
+  <img src="https://img.shields.io/badge/↗%20View%20Repository-7C3AED?style=for-the-badge&labelColor=171717" alt="MakeMyTrip Repository">
+</a>
 
 ---
 
@@ -141,7 +178,7 @@ technologies.
 ```text
 JavaScript
     ↓
-React
+Backend Development
     ↓
 Node.js
     ↓
@@ -156,7 +193,20 @@ to a portfolio.
 
 ---
 
-## 📊 GitHub
+## 💡 How I Like to Build
+
+<div align="center">
+
+### `PROBLEM` → `UNDERSTAND` → `DESIGN` → `BUILD` → `IMPROVE`
+
+</div>
+
+I believe good projects start with understanding the problem,
+not just choosing a technology.
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -174,28 +224,21 @@ to a portfolio.
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with fellow developers,
-learning from others, and discussing interesting project ideas.
-
 <div align="center">
 
 <a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge" alt="Portfolio">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge&labelColor=171717" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/divyapatel30/">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&labelColor=171717" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:divyapatel3043@gmail.com">
+  <img src="https://img.shields.io/badge/✉%20Email-5B21B6?style=for-the-badge&labelColor=171717" alt="Email">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ### ✨ Building. Learning. Improving.
 
