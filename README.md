@@ -210,13 +210,7 @@ not just choosing a technology.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=divyapatel30&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyapatel30&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top Languages">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=divyapatel30&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyapatel30&theme=github-compact&hide_border=true" alt="GitHub Activity Graph">
 
 </div>
 
