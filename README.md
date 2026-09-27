@@ -210,12 +210,11 @@ not just choosing a technology.
 
 <div align="center">
 
-<a href="https://github.com/divyapatel30">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyapatel30&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Divya Patel's GitHub statistics" height="180">
-</a>
-<a href="https://github.com/divyapatel30">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyapatel30&layout=compact&hide_border=true&theme=tokyonight" alt="Divya Patel's most used languages" height="180">
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyapatel30&theme=tokyonight" alt="GitHub statistics" width="495">
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyapatel30&theme=tokyonight" alt="Most used programming languages" width="495">
 
 </div>
 
