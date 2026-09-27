@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=👋+Hey%2C+I'm+Divya+Patel;Frontend+Developer+%26+Creative" alt="Typing SVG" /></a>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=👋+Hey%2C+I'm+Divya+Patel;Frontend+Developer" alt="Hey, I'm Divya Patel — Frontend Developer" />
 
 ### ✨ Crafting Beautiful Digital Experiences | Problem-Solver | Tech Enthusiast
 
@@ -181,37 +181,17 @@ I don't just build interfaces—I craft **complete solutions** that marry beauti
 
 ## 🎨 My Development Philosophy
 
-<div align="center">
+I follow a simple, repeatable process to turn real problems into useful products:
 
-```
-       ┌─────────────┐
-       │   PROBLEM   │ ← Start here
-       └──────┬──────┘
-              │
-              ▼
-       ┌─────────────┐
-       │ UNDERSTAND  │ ← Dig deep
-       └──────┬──────┘
-              │
-              ▼
-       ┌─────────────┐
-       │   DESIGN    │ ← Sketch solutions
-       └──────┬──────┘
-              │
-              ▼
-       ┌─────────────┐
-       │    BUILD    │ ← Write code
-       └──────┬──────┘
-              │
-              ▼
-       ┌─────────────┐
-       │   IMPROVE   │ ← Iterate & refine
-       └─────────────┘
-```
+| Step | Focus | Outcome |
+|:---:|:---|:---|
+| **1** | 🎯 **Problem** — Start with the real user need | A clearly defined problem |
+| **2** | 🔍 **Understand** — Research the context and constraints | Meaningful requirements |
+| **3** | 🎨 **Design** — Sketch practical, user-friendly solutions | A focused solution plan |
+| **4** | 🛠️ **Build** — Turn the plan into clean, maintainable code | A working product |
+| **5** | 🚀 **Improve** — Test, learn, and iterate | A better experience over time |
 
-I don't build projects for portfolios. I build **solutions** that matter.
-
-</div>
+> I don't build projects for portfolios. I build **solutions** that matter.
 
 ---
 
