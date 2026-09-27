@@ -266,7 +266,7 @@ I don't build projects for portfolios. I build **solutions** that matter.
 
 ### ✨ Building. Learning. Innovating.
 
-*Last updated: 2024 | Made with 💜 by Divya*
+*Last updated: 2026 | Made with 💜 by Divya*
 
 </div>
 
