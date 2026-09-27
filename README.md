@@ -12,7 +12,7 @@
 
 <br>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://divyapatel30.com">
   <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-7C3AED?style=for-the-badge&labelColor=171717" alt="Portfolio">
 </a>
 &nbsp;
@@ -145,7 +145,7 @@ borrowers and lenders through decentralized transactions.
 
 <br>
 
-<a href="YOUR_BLOCKCHAIN_REPO_URL">
+<a href="https://github.com/divyapatel30/blockchain-microloan">
   <img src="https://img.shields.io/badge/↗%20View%20Repository-7C3AED?style=for-the-badge&labelColor=171717" alt="Blockchain Repository">
 </a>
 
@@ -163,7 +163,7 @@ JavaScript functionality.
 
 <br>
 
-<a href="YOUR_MAKEMYTRIP_REPO_URL">
+<a href="https://github.com/divyapatel30/makemytrip-clone">
   <img src="https://img.shields.io/badge/↗%20View%20Repository-7C3AED?style=for-the-badge&labelColor=171717" alt="MakeMyTrip Repository">
 </a>
 
@@ -224,7 +224,7 @@ not just choosing a technology.
 
 <div align="center">
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://divyapatel30.com">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge&labelColor=171717" alt="Portfolio">
 </a>
 &nbsp;
