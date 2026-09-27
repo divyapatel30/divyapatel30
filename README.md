@@ -26,7 +26,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=divyapatel30&label=Profile%20Views&color=7C3AED&style=flat" alt="Profile views">
+![Profile Views](https://img.shields.io/badge/Profile%20Views-7C3AED?style=flat-square&logo=github)
 
 </div>
 
