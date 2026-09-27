@@ -206,11 +206,15 @@ not just choosing a technology.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyapatel30&theme=github-compact&hide_border=true" alt="GitHub Activity Graph">
+<img src="https://github-readme-stats.vercel.app/api?username=divyapatel30&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyapatel30&layout=compact&theme=tokyonight" alt="Top Languages">
 
 </div>
 
