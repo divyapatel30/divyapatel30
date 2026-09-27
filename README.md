@@ -2,86 +2,57 @@
 
 # 👋 Hi, I'm Divya Patel
 
-### `Frontend Developer` · `Computer Engineering Student`
+### Frontend Developer · Computer Engineering Student
 
-<p>
-  I enjoy turning ideas and real-world problems into
-  <br>
-  clean, responsive and user-friendly web experiences.
-</p>
+> Turning ideas and real-world problems into clean, responsive, and user-friendly web experiences.
 
 <br>
 
-<a href="https://divyapatel30.com">
-  <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-7C3AED?style=for-the-badge&labelColor=171717" alt="Portfolio">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/divyapatel30/">
-  <img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&labelColor=171717" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="mailto:divyapatel3043@gmail.com">
-  <img src="https://img.shields.io/badge/✉%20Contact%20Me-5B21B6?style=for-the-badge&labelColor=171717" alt="Email">
-</a>
-
-<br><br>
-
-![Profile Views](https://img.shields.io/badge/Profile%20Views-7C3AED?style=flat-square&logo=github)
+**[🌐 Portfolio](https://divyapatel30.com)** · **[💼 LinkedIn](https://www.linkedin.com/in/divyapatel30/)** · **[✉️ Email](mailto:divyapatel3043@gmail.com)**
 
 </div>
 
 ---
 
-## ✦ A Little About Me
+## 🎯 About Me
 
-```text
-🎓  Computer Engineering student
-💻  Frontend-focused developer
-🧩  Interested in building practical, problem-based applications
-🎨  I enjoy working on design and user experience
-🚀  Currently expanding my skills toward full-stack development
+```
+🎓  Computer Engineering student at heart
+💻  Frontend developer with full-stack ambitions  
+🧩  Building practical, problem-based solutions
+🎨  Passionate about design and user experience
+🚀  Always learning and improving
 ```
 
-I like building projects that are more than just interfaces.
-
-I enjoy understanding the problem behind an application and turning
-it into something simple, useful and easy to use.
+I believe great projects start by **understanding the problem**, not just choosing a technology. I focus on creating solutions that are simple, useful, and actually solve real-world challenges.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-</p>
+### 🗄️ Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🗄️ Database & Backend
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-</p>
-
-### 🔧 Tools & Version Control
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-</p>
+</div>
 
 ---
 
@@ -89,24 +60,15 @@ it into something simple, useful and easy to use.
 
 ### 🏠 HomeVault — Family & Personal Document Organizer
 
-A web-based platform designed to help individuals and families
-organize important personal and family documents in one place.
+A web-based platform designed to help individuals and families organize important documents in one place with secure access control and smart reminders.
 
-**Focus areas**
+| Aspect | Details |
+|--------|---------|
+| **Focus** | Family Management · Document Organization · Secure Access Control |
+| **Tech Stack** | HTML · CSS · JavaScript · Firebase |
+| **Status** | 🚧 In Development |
 
-`Family Management` · `Document Organization` · `Access Control`
-
-`Search & Filtering` · `Expiry Reminders`
-
-**Built with**
-
-`HTML` · `CSS` · `JavaScript` · `Firebase`
-
-**Status:** `🚧 In Development`
-
-> Building HomeVault as a practical solution to the problem of
-> important family documents being scattered across different
-> places and difficult to manage.
+**Problem Solved:** Important family documents scattered across different places and difficult to manage.
 
 ---
 
@@ -114,13 +76,9 @@ organize important personal and family documents in one place.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+**Node.js** → **MongoDB** → **Full-Stack Development**
 
-<br><br>
-
-`Learning step by step → Building toward full-stack development`
+*Learning step by step to build complete, scalable applications*
 
 </div>
 
@@ -128,93 +86,78 @@ organize important personal and family documents in one place.
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 ### ⛓️ Blockchain Microloan Payment System
 
-A blockchain-based microloan application designed to connect
-borrowers and lenders through decentralized transactions.
+A decentralized application connecting borrowers and lenders through blockchain transactions with smart contracts.
 
-**Built with**
+| | |
+|---|---|
+| **Stack** | HTML · CSS · JavaScript · Node.js · Ethers.js · Solidity · Hardhat |
+| **Features** | Borrower/Lender Interaction · Smart Contracts · Microloans |
 
-`HTML` · `CSS` · `JavaScript` · `Node.js` · `Ethers.js` · `Solidity` · `Hardhat`
-
-**Focus areas**
-
-`Borrower/Lender Interaction` · `Smart Contracts`
-
-`Microloans` · `Blockchain Transactions`
-
-<br>
-
-<a href="https://github.com/divyapatel30/blockchain-microloan">
-  <img src="https://img.shields.io/badge/↗%20View%20Repository-7C3AED?style=for-the-badge&labelColor=171717" alt="Blockchain Repository">
-</a>
+[📂 View Repository](https://github.com/divyapatel30/blockchain-microloan)
 
 ---
 
 ### ✈️ MakeMyTrip Clone
 
-A frontend project inspired by travel booking interfaces,
-built to practice responsive layouts, forms and interactive
-JavaScript functionality.
+A frontend project built to master responsive layouts, forms, and interactive JavaScript functionality inspired by travel booking platforms.
 
-**Built with**
+| | |
+|---|---|
+| **Stack** | HTML · CSS · JavaScript |
+| **Focus** | Responsive Design · Interactive UI · User Experience |
 
-`HTML` · `CSS` · `JavaScript`
-
-<br>
-
-<a href="https://github.com/divyapatel30/makemytrip-clone">
-  <img src="https://img.shields.io/badge/↗%20View%20Repository-7C3AED?style=for-the-badge&labelColor=171717" alt="MakeMyTrip Repository">
-</a>
-
----
-
-## 🌱 What's Next?
-
-I'm working toward becoming a stronger frontend → full-stack developer
-by continuously improving my JavaScript skills and learning backend
-technologies.
-
-```text
-JavaScript
-    ↓
-Backend Development
-    ↓
-Node.js
-    ↓
-MongoDB
-    ↓
-Full-Stack Applications
-```
-
-I want to keep building projects that solve actual problems,
-rather than building projects just for the sake of adding them
-to a portfolio.
-
----
-
-## 💡 How I Like to Build
-
-<div align="center">
-
-### `PROBLEM` → `UNDERSTAND` → `DESIGN` → `BUILD` → `IMPROVE`
+[📂 View Repository](https://github.com/divyapatel30/makemytrip-clone)
 
 </div>
 
-I believe good projects start with understanding the problem,
-not just choosing a technology.
-
 ---
 
-## 📊 GitHub Stats
+## 🌱 Development Roadmap
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyapatel30&theme=tokyonight" alt="GitHub statistics" width="495">
+```
+JavaScript Mastery
+    ↓
+Backend Development
+    ↓
+Node.js & Express
+    ↓
+MongoDB & Databases
+    ↓
+Full-Stack Applications
+    ↓
+Deploy & Scale
+```
 
-<br><br>
+**Goal:** Building production-ready applications that solve real problems
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyapatel30&theme=tokyonight" alt="Most used programming languages" width="495">
+</div>
+
+---
+
+## 💡 My Development Philosophy
+
+<div align="center">
+
+### PROBLEM → UNDERSTAND → DESIGN → BUILD → IMPROVE
+
+*I don't build projects just for the portfolio. I build solutions.*
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyapatel30&theme=tokyonight" alt="GitHub statistics" width="48%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyapatel30&theme=tokyonight" alt="Most used programming languages" width="48%">
 
 </div>
 
@@ -224,20 +167,12 @@ not just choosing a technology.
 
 <div align="center">
 
-<a href="https://divyapatel30.com">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge&labelColor=171717" alt="Portfolio">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/divyapatel30/">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&labelColor=171717" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="mailto:divyapatel3043@gmail.com">
-  <img src="https://img.shields.io/badge/✉%20Email-5B21B6?style=for-the-badge&labelColor=171717" alt="Email">
-</a>
+### Connect with me on your platform of choice
 
-<br><br>
+[🌐 Portfolio](https://divyapatel30.com) · [💼 LinkedIn](https://www.linkedin.com/in/divyapatel30/) · [✉️ Email](mailto:divyapatel3043@gmail.com)
 
-### ✨ Building. Learning. Improving.
+<br>
+
+**✨ Building. Learning. Improving.**
 
 </div>
