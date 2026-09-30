@@ -9,7 +9,7 @@
 <br>
 
 <div>
-  <a href="https://divyapatel30.com" target="_blank">
+  <a href="https://divyapatel30.github.io/Personal-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_PORTFOLIO-7C3AED?style=for-the-badge&labelColor=1a1a2e&logoColor=white&label=&logo=globe" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
@@ -224,7 +224,7 @@ I follow a simple, repeatable process to turn real problems into useful products
 
 | Platform | Link |
 |----------|------|
-| 🌐 **Portfolio** | [divyapatel30.com](https://divyapatel30.com) |
+| 🌐 **Portfolio** | [https://divyapatel30.com](https://divyapatel30.github.io/Personal-Portfolio/) |
 | 💼 **LinkedIn** | [linkedin.com/in/divyapatel30](https://www.linkedin.com/in/divyapatel30/) |
 | ✉️ **Email** | [divyapatel3043@gmail.com](mailto:divyapatel3043@gmail.com) |
 | 🐙 **GitHub** | [github.com/divyapatel30](https://github.com/divyapatel30) |
